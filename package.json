@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/abhishektripathi-dev/test-deploy-nodejs#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.4.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.3",
+    "sequelize": "^6.37.8"
   }
 }
